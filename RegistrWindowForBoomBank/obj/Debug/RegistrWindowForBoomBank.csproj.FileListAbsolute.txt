@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\RegistrWindowForBoomBank.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\RegistrWindowForBoomBank_MarkupCompile.cache
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\RegistrWindowForBoomBank_MarkupCompile.lref
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\bin\Debug\RegistrWindowForBoomBank.exe.config
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\bin\Debug\RegistrWindowForBoomBank.exe
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\bin\Debug\RegistrWindowForBoomBank.pdb
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\RegistrWindowForBoomBank.g.resources
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\RegistrWindowForBoomBank.Properties.Resources.resources
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\RegistrWindowForBoomBank.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\RegistrWindowForBoomBank.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\RegistrWindowForBoomBank.exe
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\RegistrWindowForBoomBank.pdb
+C:\Users\Student\source\repos\RegistrWindowForBoomBank\RegistrWindowForBoomBank\obj\Debug\GeneratedInternalTypeHelper.g.cs
